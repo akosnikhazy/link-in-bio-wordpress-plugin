@@ -1,5 +1,5 @@
 # link-in-bio-wordpress-plugin
-It makes a landing page for "link in bio" link on Instagram and other social media. You can attach the social media post image to posts so when someone visits the landing page through the lin in the bio they can find the post based on the image.
+It makes a landing page for "link in bio" link on Instagram and other social media. You can attach the social media post image to posts so when someone visits the landing page through the link in the bio they can find the post based on the image.
 
 I use this exact code for this Instagram: https://instagram.com/akosirkal
 And the landing page it generates is this: https://akosirkal.blog/link-in-bio/
