@@ -1,0 +1,29 @@
+.linb-image-grid {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+.linb-grid-item {
+	flex: 1 1 calc(33.333% - 5px);
+	box-sizing: border-box;
+	max-width: 250px;
+}
+.linb-grid-item img {
+	width: 100%;
+	height: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .linb-image-grid {
+	display: block;
+	width:100%;
+}
+.linb-grid-item {
+	width:95%;
+	margin:10px auto;
+}
+.linb-grid-item img {
+	width: 100%;
+	height: auto;
+}
+}
